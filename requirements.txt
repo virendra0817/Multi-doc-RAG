@@ -11,3 +11,5 @@ python-dotenv
 typesense
 langchain_openai
 langgraph
+langchain_groq
+streamlit
